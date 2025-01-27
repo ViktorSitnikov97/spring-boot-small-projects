@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>CustomBeanPostProcessor</module>
+        <module>Trees</module>
     </modules>
 
     <properties>
