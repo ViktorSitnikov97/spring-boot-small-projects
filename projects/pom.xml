@@ -11,6 +11,7 @@
     <modules>
         <module>CustomBeanPostProcessor</module>
         <module>Trees</module>
+        <module>NestedResources</module>
     </modules>
 
     <properties>
